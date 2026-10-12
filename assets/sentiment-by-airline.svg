@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="466" viewBox="0 0 860 466" role="img" aria-labelledby="t d">
+<title id="t">Sentiment of tweets about six US airlines, February 2015</title>
+<desc id="d">US Airways: 78% negative, 9% positive; American: 71% negative, 12% positive; United: 69% negative, 13% positive; Southwest: 49% negative, 24% positive; Delta: 43% negative, 24% positive; Virgin America: 36% negative, 30% positive</desc>
+<style>
+svg{--bg:#ffffff;--t1:#1f2328;--t2:#59636e;--grid:#d1d9e0;--neg:#e34948;--neu:#b8b7b1;--pos:#2a78d6;--bar:#e34948;--muted:#b8b7b1;--on:#ffffff;--onneu:#1f2328}
+@media (prefers-color-scheme: dark){svg{--bg:#0d1117;--t1:#f0f6fc;--t2:#9198a1;--grid:#30363d;--neg:#e66767;--neu:#5c5c58;--pos:#3987e5;--bar:#e66767;--muted:#5c5c58;--on:#ffffff;--onneu:#f0f6fc}}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:var(--t1)}
+.t2{fill:var(--t2)} .g{stroke:var(--grid);stroke-width:1}
+</style>
+<rect width="860" height="466" rx="8" fill="var(--bg)"/>
+<text x="24" y="34" font-size="18" font-weight="600">How passengers talk about US airlines on Twitter</text>
+<text x="24" y="54" font-size="13" class="t2">Share of tweets by sentiment, per airline · 14,640 labelled tweets, 16–24 February 2015</text>
+<text x="24" y="98" font-size="26" font-weight="700">14,640</text><text x="24" y="120" font-size="12" class="t2">labelled tweets</text>
+<text x="300" y="98" font-size="26" font-weight="700">63%</text><text x="300" y="120" font-size="12" class="t2">of all tweets are negative</text>
+<text x="576" y="98" font-size="26" font-weight="700">8.4×</text><text x="576" y="120" font-size="12" class="t2">more negative than positive tweets for US Airways</text>
+<rect x="150" y="144" width="12" height="12" rx="3" fill="var(--neg)"/><text x="168" y="154" font-size="12">Negative</text>
+<rect x="246" y="144" width="12" height="12" rx="3" fill="var(--neu)"/><text x="264" y="154" font-size="12">Neutral</text>
+<rect x="342" y="144" width="12" height="12" rx="3" fill="var(--pos)"/><text x="360" y="154" font-size="12">Positive</text>
+<text x="138" y="189" font-size="13" text-anchor="end">US Airways</text>
+<rect x="150.0" y="172" width="479.7" height="26" rx="3" fill="var(--neg)"/>
+<text x="158.0" y="190" font-size="12" font-weight="600" style="fill:var(--on)">78%</text>
+<rect x="631.7" y="172" width="79.1" height="26" rx="3" fill="var(--neu)"/>
+<text x="639.7" y="190" font-size="12" font-weight="600" style="fill:var(--onneu)">13%</text>
+<rect x="712.7" y="172" width="55.3" height="26" rx="3" fill="var(--pos)"/>
+<text x="720.7" y="190" font-size="12" font-weight="600" style="fill:var(--on)">9%</text>
+<text x="780" y="189" font-size="12" class="t2">n = 2,913</text>
+<text x="138" y="229" font-size="13" text-anchor="end">American</text>
+<rect x="150.0" y="212" width="438.4" height="26" rx="3" fill="var(--neg)"/>
+<text x="158.0" y="230" font-size="12" font-weight="600" style="fill:var(--on)">71%</text>
+<rect x="590.4" y="212" width="102.0" height="26" rx="3" fill="var(--neu)"/>
+<text x="598.4" y="230" font-size="12" font-weight="600" style="fill:var(--onneu)">17%</text>
+<rect x="694.5" y="212" width="73.5" height="26" rx="3" fill="var(--pos)"/>
+<text x="702.5" y="230" font-size="12" font-weight="600" style="fill:var(--on)">12%</text>
+<text x="780" y="229" font-size="12" class="t2">n = 2,759</text>
+<text x="138" y="269" font-size="13" text-anchor="end">United</text>
+<rect x="150.0" y="252" width="425.1" height="26" rx="3" fill="var(--neg)"/>
+<text x="158.0" y="270" font-size="12" font-weight="600" style="fill:var(--on)">69%</text>
+<rect x="577.1" y="252" width="111.1" height="26" rx="3" fill="var(--neu)"/>
+<text x="585.1" y="270" font-size="12" font-weight="600" style="fill:var(--onneu)">18%</text>
+<rect x="690.2" y="252" width="77.8" height="26" rx="3" fill="var(--pos)"/>
+<text x="698.2" y="270" font-size="12" font-weight="600" style="fill:var(--on)">13%</text>
+<text x="780" y="269" font-size="12" class="t2">n = 3,822</text>
+<text x="138" y="309" font-size="13" text-anchor="end">Southwest</text>
+<rect x="150.0" y="292" width="301.9" height="26" rx="3" fill="var(--neg)"/>
+<text x="158.0" y="310" font-size="12" font-weight="600" style="fill:var(--on)">49%</text>
+<rect x="453.9" y="292" width="168.1" height="26" rx="3" fill="var(--neu)"/>
+<text x="461.9" y="310" font-size="12" font-weight="600" style="fill:var(--onneu)">27%</text>
+<rect x="624.0" y="292" width="144.0" height="26" rx="3" fill="var(--pos)"/>
+<text x="632.0" y="310" font-size="12" font-weight="600" style="fill:var(--on)">24%</text>
+<text x="780" y="309" font-size="12" class="t2">n = 2,420</text>
+<text x="138" y="349" font-size="13" text-anchor="end">Delta</text>
+<rect x="150.0" y="332" width="264.5" height="26" rx="3" fill="var(--neg)"/>
+<text x="158.0" y="350" font-size="12" font-weight="600" style="fill:var(--on)">43%</text>
+<rect x="416.5" y="332" width="199.7" height="26" rx="3" fill="var(--neu)"/>
+<text x="424.5" y="350" font-size="12" font-weight="600" style="fill:var(--onneu)">33%</text>
+<rect x="618.2" y="332" width="149.8" height="26" rx="3" fill="var(--pos)"/>
+<text x="626.2" y="350" font-size="12" font-weight="600" style="fill:var(--on)">24%</text>
+<text x="780" y="349" font-size="12" class="t2">n = 2,222</text>
+<text x="138" y="389" font-size="13" text-anchor="end">Virgin America</text>
+<rect x="150.0" y="372" width="220.7" height="26" rx="3" fill="var(--neg)"/>
+<text x="158.0" y="390" font-size="12" font-weight="600" style="fill:var(--on)">36%</text>
+<rect x="372.7" y="372" width="208.4" height="26" rx="3" fill="var(--neu)"/>
+<text x="380.7" y="390" font-size="12" font-weight="600" style="fill:var(--onneu)">34%</text>
+<rect x="583.0" y="372" width="185.0" height="26" rx="3" fill="var(--pos)"/>
+<text x="591.0" y="390" font-size="12" font-weight="600" style="fill:var(--on)">30%</text>
+<text x="780" y="389" font-size="12" class="t2">n = 504</text>
+<text x="24" y="448" font-size="11" class="t2">Airlines sorted by share of negative tweets. Source: Twitter US Airline Sentiment dataset (Crowdflower / Kaggle), human-labelled.</text>
+</svg>
