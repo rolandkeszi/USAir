@@ -78,6 +78,11 @@ The published file is fully anonymised by [`scripts/anonymize_tweets.py`](script
 └── requirements.txt
 ```
 
+
+## License
+
+© 2026 Roland Keszi. This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): you may share and adapt it for non-commercial purposes, provided you credit the author (Roland Keszi) and link to this repository. Third-party datasets keep their own licenses. See [`LICENSE`](LICENSE).
+
 ---
 
 <sub>Part of my data science portfolio · see also the <a href="https://github.com/rolandkeszi/llm-sentiment-benchmark">LLM vs. classical sentiment benchmark</a>, where 12 models are compared on the same kind of task.</sub>
