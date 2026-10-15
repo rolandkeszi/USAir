@@ -32,6 +32,7 @@ phone = re.compile(r"(?<!\d)(?:\+?1[\s.-]?)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}(
 long_number = re.compile(r"\b[A-Z]{0,3}\d{7,}\b")
 code = re.compile(r"\b(?=[A-Z0-9]{6}\b)(?=[A-Z0-9]*\d)(?=[A-Z0-9]*[A-Z])[A-Z0-9]{6}\b")
 flight = re.compile(r"^[A-Z]{2}\d{1,4}$")
+initial_name = re.compile(r"\b[A-Z][a-z]+ [A-Z]\.(?=\s|$|[,!?)])|\bDeeDee\b")  # "Mark T." style staff names NER misses
 name_shape = re.compile(r"^[A-Z][a-z]+(?:[ '-][A-Z][a-z]+)*$")
 
 
@@ -40,6 +41,7 @@ def mask_patterns(text):
     text = email.sub("[email]", text)
     text = phone.sub("[phone]", text)
     text = long_number.sub("[number]", text)
+    text = initial_name.sub("[name]", text)
     return code.sub(lambda m: m.group(0) if flight.match(m.group(0)) else "[code]", text)
 
 

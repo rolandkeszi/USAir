@@ -2383,7 +2383,7 @@ negative,0.6687,Can't Tell,0.3575,United,1,@united I fly @AmericanAir normally. 
 positive,1,,,United,0,@united the upgrade to first class was a nice way to fix your earlier mistake. Thank you!,2015-02-21 13:34:35 -0800,35.651033903106,-119.489588323796
 negative,1,Bad Flight,0.3455,United,0,@united how about plowing the snow at a gate before the plane arrives so we don't sit for 45 minutes after an 8 hr flight.... Fail,2015-02-21 13:31:14 -0800,36.7499136233383,-119.602501430324
 neutral,1,,,United,0,@united SATURDAY this morning Man dies from Ebola http://t.co/hXVVIS0VWw,2015-02-21 13:29:33 -0800,39.2214122712733,-119.333913775167
-positive,1,,,United,0,@united Rhonda C. at Atlanta airport redeemed you guys. She got us straightened out.,2015-02-21 13:27:59 -0800,35.2366421832288,-119.831781100318
+positive,1,,,United,0,@united [name] at Atlanta airport redeemed you guys. She got us straightened out.,2015-02-21 13:27:59 -0800,35.2366421832288,-119.831781100318
 negative,1,Can't Tell,0.65,United,1,"@united ok so what is being done about my experience? My family had a terrible experience for $1,200. It's kind of like being robbed.Explain",2015-02-21 13:27:22 -0800,38.4458457880564,-119.048390944973
 negative,1,Lost Luggage,1,United,0,@united great job losing one of my six bags on a direct flight.  Don't know how you manage to do it.,2015-02-21 13:26:24 -0800,36.3113602287661,-119.817016688746
 negative,1,Customer Service Issue,1,United,0,@united the worst customer service in Denver.,2015-02-21 13:20:16 -0800,37.1795938191745,-119.959776803098
@@ -4933,7 +4933,7 @@ neutral,0.6056,,0,Southwest,0,@SouthwestAir I have a child traveling cross count
 neutral,1,,,Southwest,0,@SouthwestAir  how do you get one?,2015-02-22 18:03:07 -0800,35.8437425027414,-118.960696853066
 neutral,0.7132,,,Southwest,0,@SouthwestAir retiring with my hubby and it's our 25th wedding anniversary this year! Companion pass please!!,2015-02-22 18:02:07 -0800,37.7159902376886,-119.968628885529
 positive,0.6536,,,Southwest,0,"@SouthwestAir beautiful view flying into San Jose, CA this evening http://t.co/SxVaGbRTlI",2015-02-22 17:53:33 -0800,39.1575465166607,-119.486288804817
-positive,1,,,Southwest,0,@SouthwestAir Thank you SWA and Shannon G. @user (C22) for being a miracle worker! #awesome,2015-02-22 17:52:45 -0800,36.1577023636785,-119.904483319388
+positive,1,,,Southwest,0,@SouthwestAir Thank you SWA and [name] @user (C22) for being a miracle worker! #awesome,2015-02-22 17:52:45 -0800,36.1577023636785,-119.904483319388
 negative,1,Cancelled Flight,1,Southwest,0,"But expect no help from -&gt;@SouthwestAir &lt;-.  Our flt was canx at the last minute for ""weather.""  We flew home on weatherless @united.",2015-02-22 17:51:24 -0800,36.5242420862006,-119.024824960756
 neutral,1,,,Southwest,0,@SouthwestAir want go from New Orleans houston see my dad at md anderson can you help me out,2015-02-22 17:50:38 -0800,33.5084747866111,-119.916459397803
 positive,0.6667,,,Southwest,0,@SouthwestAir yes please,2015-02-22 17:47:59 -0800,38.9712395658543,-119.331078194838
@@ -7321,7 +7321,7 @@ neutral,0.6771,,,Delta,0,"@JetBlue Hey friends! Stupid question - Can I split pa
 negative,1,Customer Service Issue,1,Delta,0,"@JetBlue  Called JB 3 times!Everytime, Auto Vmsg:""your wait time should not be longer than 9 mins"" waited longer than 18 mins and no answer!",2015-02-23 08:20:45 -0800,38.0715867056619,-100.831888412168
 negative,1,Flight Booking Problems,0.6733,Delta,0,"@JetBlue All correct for rates Boston to Pittsburgh wknd March 14? Rates all of a sudden took off! Made plans, came back to buy &amp; surprised.",2015-02-23 08:18:15 -0800,39.8514944435711,-102.390610702502
 neutral,0.6683,,,Delta,0,@JetBlue expanding!  http://t.co/Kk6EixifP5  #Nantucket #Aviation,2015-02-23 08:17:09 -0800,39.5056182885752,-92.0648552196259
-positive,1,,,Delta,0,@JetBlue Mark T.  in Austin was great handling my bag issue.  #thanks,2015-02-23 08:14:09 -0800,39.0361733438436,-100.130328152953
+positive,1,,,Delta,0,@JetBlue [name]  in Austin was great handling my bag issue.  #thanks,2015-02-23 08:14:09 -0800,39.0361733438436,-100.130328152953
 neutral,1,,,Delta,0,@JetBlue I believe you have to follow me so I can send you a message,2015-02-23 08:10:49 -0800,43.0058465449393,-91.8883156494829
 neutral,1,,,Delta,0,@JetBlue I'll read this over a nice glass of wine right before I dig my heels into my next novel! Maybe travel is just what I need...,2015-02-23 08:04:41 -0800,41.1903226517423,-105.747643620747
 positive,1,,,Delta,0,"@JetBlue @user @user @user Good one! And indeed, it's JetBlue's finest day in history!",2015-02-23 08:02:42 -0800,41.2653528259078,-107.597025459053
@@ -9099,13 +9099,13 @@ neutral,1,,,Delta,0,@JetBlue's new CEO seeks the right balance to please passeng
 negative,0.6292,Flight Booking Problems,0.3146,US Airways,0,@USAirways  is there a better time to call? My flight is on Friday and I need to change it. Worried I may be on hold until then.,2015-02-24 11:53:37 -0800,45.7415965839368,-107.481905768675
 negative,1,Customer Service Issue,1,US Airways,0,@USAirways and when will one of these agents be available to speak?,2015-02-24 11:51:48 -0800,45.2303772512806,-102.139669388292
 neutral,1,,,US Airways,0,@USAirways is a DM possible if you aren't following me?,2015-02-24 11:48:37 -0800,28.706883231545,-100.039351952126
-neutral,1,,,US Airways,0,@USAirways Fortunately you have staff like Lynn S. and DeeDee who actually understand customer service and simply being NICE.,2015-02-24 11:47:16 -0800,42.2255277754891,-102.829893208758
+neutral,1,,,US Airways,0,@USAirways Fortunately you have staff like [name] and [name] who actually understand customer service and simply being NICE.,2015-02-24 11:47:16 -0800,42.2255277754891,-102.829893208758
 negative,1,Customer Service Issue,0.6452,US Airways,0,@USAirways just hung up on me again.  Another waste of an hour of my time.  How am I supposed to book a one way award flight?  #badwebsite,2015-02-24 11:46:28 -0800,35.8416209087413,-111.132327811351
-neutral,1,,,US Airways,0,@USAirways never received such horrible service or treated so poorly as Richard P. today. No excuse for attitude &amp; ripping up our tickets!,2015-02-24 11:43:55 -0800,43.0100669993939,-100.751322848872
+neutral,1,,,US Airways,0,@USAirways never received such horrible service or treated so poorly as [name] today. No excuse for attitude &amp; ripping up our tickets!,2015-02-24 11:43:55 -0800,43.0100669993939,-100.751322848872
 negative,1,Customer Service Issue,1,US Airways,0,@USAirways you're killing me from the inside,2015-02-24 11:41:43 -0800,34.4906253310389,-100.772990048392
 negative,0.702,Flight Attendant Complaints,0.702,US Airways,0,@USAirways is not the new @AmericanAir is more like the new @user. Love AA. Not impressed with the subpar planes and gate agents.,2015-02-24 11:39:45 -0800,34.4238133531218,-100.270052176801
 positive,1,,,US Airways,0,@USAirways we were moved to a delta direct. Thank you for the accommodations!,2015-02-24 11:39:22 -0800,42.6653294126135,-109.318578211203
-neutral,1,,,US Airways,0,"@USAirways agree! Richard P. Literally ripped up our tixs in our faces and made rude, inappropriate comments to us and our family. Awful!",2015-02-24 11:38:47 -0800,33.3224958067683,-103.765894331271
+neutral,1,,,US Airways,0,"@USAirways agree! [name] Literally ripped up our tixs in our faces and made rude, inappropriate comments to us and our family. Awful!",2015-02-24 11:38:47 -0800,33.3224958067683,-103.765894331271
 negative,1,Bad Flight,0.6505,US Airways,0,@USAirways flight 645 to Phoenix deboards passengers going to Salt Lake City because they can't resolve a simple bathroom issue. #fail,2015-02-24 11:38:11 -0800,46.4505028637971,-99.7392618546179
 negative,1,Customer Service Issue,0.7072,US Airways,1,@USAirways always fun to get screwed out of an earlier flight (that isn't full) #crummyservice #whydidntiflysouthwest #goodluckamericanair,2015-02-24 11:30:29 -0800,48.09454059745,-95.2508860948538
 neutral,0.6665,,0,US Airways,0,@USAirways shout out to [name] at the Vegas airport check-in for hooking us up!,2015-02-24 11:30:20 -0800,39.5219552681379,-94.7249941427004
@@ -9119,7 +9119,7 @@ positive,0.6652,,,US Airways,0,@USAirways Well I did miss it. But gate agents ha
 negative,1,Customer Service Issue,0.698,US Airways,0,@USAirways I cant get anyone on the phone to help with award travel.Purchased extra miles and 10 minutes Late Flightr the miles needed was raised.,2015-02-24 11:12:48 -0800,39.0906723521151,-97.946957968857
 negative,1,Customer Service Issue,0.6915,US Airways,0,@USAirways Why haven't you issued a travel advisory for Charlotte Wednesday night and Thursday? 4-6 inches of snow.,2015-02-24 11:03:42 -0800,51.8412552206604,-106.264195519301
 neutral,1,,,US Airways,0,@USAirways I need help about a ticket. DM me,2015-02-24 11:00:19 -0800,36.4269890688631,-103.015754971747
-negative,0.66,Flight Attendant Complaints,0.66,US Airways,0,@USAirways DeeDee and Lynn S. have been great here in PHX; Richard P. here was a jerk. Rude to us and our parents for no reason.,2015-02-24 10:57:44 -0800,36.3227809174791,-96.7440679411284
+negative,0.66,Flight Attendant Complaints,0.66,US Airways,0,@USAirways [name] and [name] have been great here in PHX; [name] here was a jerk. Rude to us and our parents for no reason.,2015-02-24 10:57:44 -0800,36.3227809174791,-96.7440679411284
 negative,1,Cancelled Flight,0.3542,US Airways,0,@USAirways thanks for making me miss my meeting in Dallas. 700 dollars down the toilet 😊,2015-02-24 10:57:39 -0800,38.9163714490987,-98.9774753634275
 negative,0.6522,Late Flight,0.3478,US Airways,0,@USAirways I have two tight connections in #Charlotte and #Frankfurt,2015-02-24 10:56:41 -0800,49.6993945137338,-107.732521404583
 negative,0.6863,Late Flight,0.3585,US Airways,0,"@USAirways [name] only way to get on plane about to leave that would make my connection was a $75 fee. Instead of earlier, I am now Late Flightr!",2015-02-24 10:56:27 -0800,41.24594962996,-106.885676677678
@@ -9311,7 +9311,7 @@ negative,1,Flight Booking Problems,1,US Airways,0,@USAirways  you took the miles
 negative,0.6764,Flight Booking Problems,0.6764,US Airways,0,"@USAirways  - I had 20,748 miles in  my account and was informed I'd forfeit them bc of 33 months of inactivity - I",2015-02-23 20:52:15 -0800,37.7480945443126,-104.779845871716
 negative,1,Customer Service Issue,1,US Airways,0,@usairways - It's all automated and no one cares to understand the problem I'm having,2015-02-23 20:51:24 -0800,44.8835158574058,-101.616684441866
 negative,1,Late Flight,1,US Airways,0,@USAirways screwed me up big. 1st flight 1hr Late Flight. Made it to 2nd flight. CSM daryl wouldn't let me on the plane because we were (1/4),2015-02-23 20:51:02 -0800,40.861346252815,-94.3410108229706
-negative,1,Lost Luggage,0.6667,US Airways,0,"@USAirways Houston hub Aa T. Employee the bag is not here, It made it to Pa before me! Oops not your problem http://t.co/Uld0hWFkfo",2015-02-23 20:49:18 -0800,38.8760019053503,-97.6586132345245
+negative,1,Lost Luggage,0.6667,US Airways,0,"@USAirways Houston hub [name] Employee the bag is not here, It made it to Pa before me! Oops not your problem http://t.co/Uld0hWFkfo",2015-02-23 20:49:18 -0800,38.8760019053503,-97.6586132345245
 negative,1,Customer Service Issue,0.6785,US Airways,0,"@USAirways charged my card 11 times for one airline ticket, now card is on security hold",2015-02-23 20:46:57 -0800,38.0789441924349,-102.048492739397
 negative,0.6898,Customer Service Issue,0.6898,US Airways,0,@USAirways not yet. But we will see shortly.,2015-02-23 20:46:55 -0800,51.5545816501306,-105.796342082878
 negative,1,Can't Tell,0.6563,US Airways,0,@USAirways I've flown US Airways at least five times. Every single time has been like this. Actions speak louder than words.,2015-02-23 20:43:26 -0800,36.5373053181509,-108.227011543877
@@ -9420,7 +9420,7 @@ negative,1,Flight Attendant Complaints,0.6882,US Airways,0,@USAirways is anythin
 neutral,1,,,US Airways,0,@USAirways i have a question. i need to talk to someone by email. Can you give me your email address? Thanks.,2015-02-23 15:53:55 -0800,36.3031555129633,-109.805968503882
 negative,1,Lost Luggage,0.6941,US Airways,1,"@USAirways @user well there is certainly nothing happening ""in front"" of the scenes. #Noaccountability  #disappointing",2015-02-23 15:50:15 -0800,35.842811062569,-96.1392598183997
 negative,1,Customer Service Issue,0.6764,US Airways,1,@USAirways 4 hours on tarmac in Charleston and still can't get a response after a week. Unacceptable,2015-02-23 15:48:24 -0800,53.8721967180446,-100.036789228058
-positive,0.6612,,0,US Airways,0,@USAirways customer service at its best! Rachel S.  took great care of us at the PHX airport. http://t.co/HG7vEqhGHy,2015-02-23 15:39:25 -0800,44.5916904213417,-89.8056907119443
+positive,0.6612,,0,US Airways,0,@USAirways customer service at its best! [name]  took great care of us at the PHX airport. http://t.co/HG7vEqhGHy,2015-02-23 15:39:25 -0800,44.5916904213417,-89.8056907119443
 neutral,1,,,US Airways,0,@usairways &amp; @AmericanAir planes in #grandcayman http://t.co/GX7QbtckBr,2015-02-23 15:39:17 -0800,42.9170866539202,-104.683269570774
 negative,1,Can't Tell,1,US Airways,0,@USAirways  I will never fly us airways again.,2015-02-23 15:36:58 -0800,35.3943155221561,-100.8795104493
 negative,0.6559,Late Flight,0.3333,US Airways,1,@USAirways strikes again--Late Flight crew #3/4 for the trip and maintenance #2/4.  Worth the extra $200/trip for less hassle and fewer delays,2015-02-23 15:32:41 -0800,43.4485380811474,-105.59966697524
@@ -9953,7 +9953,7 @@ negative,1,Late Flight,1,US Airways,0,"@USAirways That's 1h 10m waiting to get m
 negative,1,Customer Service Issue,0.6955,US Airways,0,@USAirways #stuck in Florida with no flights... Service sucks here. #nofood #nodrinks #nohelp,2015-02-22 16:22:12 -0800,36.1268723675101,-96.3914183406177
 negative,1,Flight Attendant Complaints,0.3543,US Airways,0,"@USAirways - why can't the gate agent on flight #759 provide an update? Seriously, this is ridiculous how long people have been waiting",2015-02-22 16:21:25 -0800,31.0205226921311,-95.3128615295828
 negative,1,Customer Service Issue,1,US Airways,0,@USAirways your IVR hung up on me because of high call volume? I need help. Call me,2015-02-22 16:19:05 -0800,47.7930550385406,-103.573551508099
-negative,1,Late Flight,0.654,US Airways,0,"@USAirways A tweeted apology is not enough for delay fiasco. NONE for insult from gate agent is worse. Except for Mark N., all bad at CLT.",2015-02-22 16:17:38 -0800,48.4152306075646,-100.094215377387
+negative,1,Late Flight,0.654,US Airways,0,"@USAirways A tweeted apology is not enough for delay fiasco. NONE for insult from gate agent is worse. Except for [name], all bad at CLT.",2015-02-22 16:17:38 -0800,48.4152306075646,-100.094215377387
 neutral,0.3542,,0,US Airways,0,"@USAirways sorry, we are in Philly. Should've told you that.",2015-02-22 16:14:35 -0800,45.2990190086017,-99.3628428646494
 negative,1,Late Flight,0.6915,US Airways,0,@USAirways pilot for flight 729 didn't show until after departure ⌚️ &amp; now there's a broken computer. Next time flying @United. #ALWAYSLate Flight,2015-02-22 16:14:26 -0800,34.4451842529519,-105.915981849752
 neutral,0.691,,0,US Airways,0,@USAirways pilot says that we are going to take off in 10 minutes. So maybe the systems came back online?,2015-02-22 16:13:16 -0800,30.2074769703547,-107.722538367393
@@ -10264,7 +10264,7 @@ negative,1,Lost Luggage,1,US Airways,0,@USAirways 40 minutes in baggage claim an
 negative,1,Customer Service Issue,0.7013,US Airways,0,"@USAirways @user  ""That's unusual"" means we screwed up but will never admit to it!  #GoingForGreatnessFAIL",2015-02-22 08:04:16 -0800,40.7264,-74.0021
 negative,1,Customer Service Issue,0.6722,US Airways,0,"@USAirways horrible customer service, flying from Miami to Philadelphia, sent to Charlotte, now can't get out of Charlotte!",2015-02-22 08:02:44 -0800,40.755,-73.9835
 negative,1,Customer Service Issue,1,US Airways,0,@USAirways have had a medical issue Late Flight yesterday and need to change my flight today been on hold for an hour and still not through,2015-02-22 08:01:37 -0800,40.6433,-73.7897
-positive,1,,,US Airways,0,@USAirways Mellani B. and whole team in Columbia SC are absolute superstars. Incredibly helpful.,2015-02-22 08:00:41 -0800,40.7527,-73.9932
+positive,1,,,US Airways,0,@USAirways [name] and whole team in Columbia SC are absolute superstars. Incredibly helpful.,2015-02-22 08:00:41 -0800,40.7527,-73.9932
 negative,1,Late Flight,1,US Airways,1,"@USAirways @user  U hate delays, too?  But u have her $$ &amp; are holding her hostage!  #GoingForGreatnessFAIL",2015-02-22 07:58:13 -0800,40.754,-73.9763
 positive,0.7149,,0,US Airways,0,"@USAirways please thank [name] at CAE, [name] in baggage claim at CLT 4 #excellent customer service 2day, BUT I have a complaint.",2015-02-22 07:56:33 -0800,40.7225,-73.9973
 negative,1,Customer Service Issue,0.6768,US Airways,0,@USAirways @AmericanAir my friends are stranded at KPHL and the representatives there won't even give them food vouchers…any help please?,2015-02-22 07:56:01 -0800,40.7159,-74.0099
@@ -10673,7 +10673,7 @@ negative,1,Late Flight,0.3515,US Airways,0,@USAirways  in don't have it on me at
 negative,1,Customer Service Issue,1,US Airways,0,"@USAirways 4+ hour hold, finally Cancelled Flighted ticket! sticking to @delta @user who allow easy online Cancelled Flights/refunds! http://t.co/RKVCZBpdCE",2015-02-21 11:53:51 -0800,40.7186,-73.9949
 negative,0.6734,Flight Booking Problems,0.6734,US Airways,0,@USAirways Hold time to book award travel from Gold status: 4 HOURS and counting!!!! + 4 days of calling #usairwaysfail @AmericanAir,2015-02-21 11:53:48 -0800,40.7261,-74.0039
 negative,1,Cancelled Flight,1,US Airways,0,@USAirways now what? You Cancelled Flightled my flight again... Are you paying for my hotel?,2015-02-21 11:43:37 -0800,40.7522,-73.9771
-positive,1,,,US Airways,0,@USAirways your team member at DCA- Tamara R. is her name was awesome. You should have more employees like her!,2015-02-21 11:41:42 -0800,40.7247,-73.9874
+positive,1,,,US Airways,0,@USAirways your team member at DCA- [name] is her name was awesome. You should have more employees like her!,2015-02-21 11:41:42 -0800,40.7247,-73.9874
 positive,0.6778,,0,US Airways,0,@USAirways thanks for getting us on ur plane. Awesome flight attendant who is making us smile after difficult travel. #customerservice,2015-02-21 11:40:56 -0800,40.7279,-73.9934
 negative,1,Lost Luggage,1,US Airways,0,"@USAirways had baggage lost last night, no call from us airways and no bags and nobody answering phone #badcustomersrvice #whereismybag",2015-02-21 11:37:36 -0800,40.7663,-73.9523
 negative,0.696,Cancelled Flight,0.696,US Airways,0,"@USAirways if my flight's been Cancelled Flightled, and I can't reach anyone over the phone or ticketing agents, safe to assume I wasn't rebooked?",2015-02-21 11:31:44 -0800,40.7111,-74.0056
@@ -11005,7 +11005,7 @@ negative,1,Customer Service Issue,0.3681,US Airways,0,"@USAirways [name] all tha
 negative,1,Bad Flight,0.3693,US Airways,0,@USAirways no you not sorry. I am trying 2 add a day 2 my vacation but there is a $200 charge just 2 change flights,2015-02-20 09:16:05 -0800,40.7933,-73.9726
 positive,1,,,US Airways,0,@USAirways [name] in reservations in greensboro nc is an absolute jewel thank her for me she's amazing!!!,2015-02-20 09:04:36 -0800,40.7835,-73.9803
 negative,1,Flight Attendant Complaints,0.7223,US Airways,0,"@USAirways the two women workng PHL bag check term C @ 11:30 ET should be fired for being rude, pushy and treating customers with disrespect",2015-02-20 09:03:52 -0800,40.6484,-73.783
-positive,1,,,US Airways,0,@USAirways Best GAgent in a long time - Danny B. for US628 DFW-CLT. Appreciated how up to date he kept us during irrops. Super professional!,2015-02-20 09:00:41 -0800,40.7293,-73.9978
+positive,1,,,US Airways,0,@USAirways Best GAgent in a long time - [name] for US628 DFW-CLT. Appreciated how up to date he kept us during irrops. Super professional!,2015-02-20 09:00:41 -0800,40.7293,-73.9978
 positive,1,,,US Airways,0,"@USAirways 
 Good news, we got fixed.",2015-02-20 08:53:41 -0800,40.7406,-74.0057
 negative,1,Customer Service Issue,0.6485,US Airways,0,@user don't bother wasting your time!  @USAirways will send u a form letter &amp; let u choose a gift certificate. #worstcustomerservice,2015-02-20 08:47:48 -0800,40.6448,-73.7817
@@ -11068,7 +11068,7 @@ negative,1,Late Flight,1,US Airways,0,@USAirways what is the damn delay????,2015
 negative,1,Late Flight,0.6645,US Airways,0,@USAirways it would be nice to just pull up to the gate. Still sitting here,2015-02-20 06:42:11 -0800,40.7101,-74.0111
 negative,1,Customer Service Issue,0.6545,US Airways,0,@usairways app is the worst one for airlines. Can't do anything once your original flight time has gone by. Useless.,2015-02-20 06:38:05 -0800,40.7331,-74.0001
 negative,1,Bad Flight,0.6454,US Airways,0,@USAirways has completely wasted my work day! Thank you for the bad service and bad Friday!,2015-02-20 06:37:14 -0800,40.7696,-73.9845
-negative,1,Customer Service Issue,1,US Airways,0,"@USAirways And also, it's great that you tweet @ complainers, but what about the in-person help when I need it? Robyn F. in Manch = useless.",2015-02-20 06:35:24 -0800,40.763,-73.9785
+negative,1,Customer Service Issue,1,US Airways,0,"@USAirways And also, it's great that you tweet @ complainers, but what about the in-person help when I need it? [name] in Manch = useless.",2015-02-20 06:35:24 -0800,40.763,-73.9785
 negative,1,Can't Tell,0.6664,US Airways,0,.@USAirways You'll be receiving a long &amp; detailed complaint letter soon. Long story short: never flying USAir again.,2015-02-20 06:34:30 -0800,40.7587,-73.9689
 negative,1,Can't Tell,0.3497,US Airways,0,"@Usairways thanks for making miss connection, getting rebooked, missing that too, and a miserable day. Started my day @ 4:30am for nothing!",2015-02-20 06:34:15 -0800,40.7614,-73.9693
 negative,1,Late Flight,1,US Airways,0,"@Usairways need to learn operations. Sit a plane overnight at #gsp, and not realize there's a mech problem. Then delay flight 3 1/2 hours!",2015-02-20 06:32:28 -0800,40.7862,-73.981
@@ -11496,7 +11496,7 @@ negative,1,Cancelled Flight,0.7113,US Airways,0,"@USAirways @user she missed her
 negative,1,Cancelled Flight,1,US Airways,0,@USAirways My last flight was Cancelled Flightled and I'm very disappointed.,2015-02-18 14:50:50 -0800,40.7645,-73.9692
 negative,1,Can't Tell,1,US Airways,1,@USAirways just lost a faithful customer.,2015-02-18 14:39:46 -0800,40.7237,-73.9931
 negative,1,Can't Tell,0.3536,US Airways,0,@USAirways  I have 3 times and no one has been able to help me out,2015-02-18 14:29:31 -0800,40.745,-74.006
-positive,1,,,US Airways,0,@USAirways Marsha M. at Myrtle Beach is the greatest! She deserves all the respect and praise there is! #ThankYouForEverything,2015-02-18 14:28:47 -0800,40.7615,-73.9704
+positive,1,,,US Airways,0,@USAirways [name] at Myrtle Beach is the greatest! She deserves all the respect and praise there is! #ThankYouForEverything,2015-02-18 14:28:47 -0800,40.7615,-73.9704
 negative,1,Late Flight,1,US Airways,0,"@usairways. Seriously, attendants go AWOL for 60 mins.   Now flight further delayed.   Don't lite a match either http://t.co/mT8sPlm02v",2015-02-18 14:28:38 -0800,40.6772,-73.9386
 negative,1,Customer Service Issue,1,US Airways,0,"@USAirways Joined Silver Preferred because I heard customer service was so great, pity I was misguided.",2015-02-18 14:27:24 -0800,40.7734,-73.953
 negative,1,Late Flight,0.356,US Airways,0,@USAirways it is just bad practice and I am disappointed that your airline was not prepared...honestly the last time I fly with you guys,2015-02-18 14:26:54 -0800,40.7584,-73.9691

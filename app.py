@@ -27,7 +27,7 @@ TEXT = {
         "title": "Amerikai légitársaságok utasainak szentimentelemzése interaktív dashboardon",
         "intro": "Tweetek szentimentelemzése: ezen a dashboardon különféle szempontok szerint lehet "
                  "adattudományi elemzéseket végezni a bal oldali oszlop beállításai alapján, "
-                 "egy N={n:,} elemű adatbázison.",
+                 "egy N={n} elemű adatbázison.",
         "sidebar_title": "Twitter-adatok szentimentelemzése",
         "sidebar_intro": "Interaktív beállítások 🦃 🦤 🐦‍⬛ 🦜 🦚 🪽 🐦‍🔥 🐦",
         "language": "Nyelv",
@@ -62,7 +62,7 @@ TEXT = {
         "page_title": "US airline tweets – sentiment dashboard",
         "title": "Sentiment analysis of US airline passengers on an interactive dashboard",
         "intro": "Sentiment analysis of tweets: on this dashboard you can explore the data from several "
-                 "angles using the settings in the left sidebar, on a dataset of N={n:,} tweets.",
+                 "angles using the settings in the left sidebar, on a dataset of N={n} tweets.",
         "sidebar_title": "Sentiment analysis of Twitter data",
         "sidebar_intro": "Interactive settings 🦃 🦤 🐦‍⬛ 🦜 🦚 🪽 🐦‍🔥 🐦",
         "language": "Language",
@@ -132,7 +132,8 @@ def count_chart(counts, name_col, kind, colors=None):
 
 # ---------- header ----------
 st.title(T["title"])
-st.markdown(T["intro"].format(n=len(data)))
+n_fmt = f"{len(data):,}".replace(",", " " if lang == "hu" else ",")
+st.markdown(T["intro"].format(n=n_fmt))
 
 st.sidebar.title(T["sidebar_title"])
 chosen_lang = st.sidebar.segmented_control(
