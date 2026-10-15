@@ -3,6 +3,7 @@
 Language: Hungarian by default, English with ?lang=en in the URL.
 """
 import html
+import re
 from pathlib import Path
 
 import matplotlib.pyplot as plt
@@ -246,7 +247,7 @@ with tabs[0]:
                           textposition="inside", insidetextanchor="start", textangle=0)
         fig.for_each_trace(lambda t: t.update(name=LABELS[t.name]))
         fig.update_layout(barmode="stack", xaxis_range=[0, 100], bargap=0.3)
-        st.plotly_chart(style(fig, 380), use_container_width=True)
+        st.plotly_chart(style(fig, 380), width="stretch")
         st.caption(T["by_airline_note"])
     with right:
         section(T["volume"])
@@ -259,7 +260,7 @@ with tabs[0]:
         )
         fig.update_traces(marker_color="#59636e", texttemplate="%{text:,}", textposition="outside",
                           hovertemplate="%{y}: %{x:,}<extra></extra>", cliponaxis=False)
-        st.plotly_chart(style(fig, 300), use_container_width=True)
+        st.plotly_chart(style(fig, 300), width="stretch")
 
 # ---------- complaints ----------
 with tabs[1]:
@@ -284,7 +285,7 @@ with tabs[1]:
                 texttemplate="%{x:.1f}%", textposition="outside",
                 hovertemplate="%{y}: %{x:.1f}%<extra></extra>", cliponaxis=False,
             )
-            st.plotly_chart(style(fig, 460), use_container_width=True)
+            st.plotly_chart(style(fig, 460), width="stretch")
         with right:
             section(T["heatmap"])
             profile = pd.crosstab(negatives["airline"], negatives[reason_col], normalize="index").mul(100)
@@ -296,7 +297,7 @@ with tabs[1]:
             )
             fig.update_xaxes(tickangle=-35, title=None)
             fig.update_yaxes(title=None)
-            st.plotly_chart(style(fig, 460), use_container_width=True)
+            st.plotly_chart(style(fig, 460), width="stretch")
             st.caption(T["heatmap_note"])
 
 # ---------- time ----------
@@ -314,7 +315,7 @@ with tabs[2]:
             )
             fig.for_each_trace(lambda t: t.update(name=LABELS[t.name]))
             fig.update_layout(barmode="stack", bargap=0.15)
-            st.plotly_chart(style(fig, 340), use_container_width=True)
+            st.plotly_chart(style(fig, 340), width="stretch")
 
 # ---------- text ----------
 with tabs[3]:
@@ -325,6 +326,7 @@ with tabs[3]:
         wc_sent = st.segmented_control(T["wordcloud_for"], options, default=options[0], format_func=lambda s: LABELS[s])
         wc_sent = wc_sent or options[0]
         words = " ".join(df.loc[df["airline_sentiment"] == wc_sent, "text"])
+        words = re.sub(r"\[(?:name|email|phone|number|code)\]", " ", words)  # anonymisation masks
         words = " ".join(w for w in words.split() if "http" not in w and not w.startswith("@") and w != "RT")
         if words.strip():
             palette = {
@@ -359,7 +361,7 @@ with tabs[3]:
 with tabs[4]:
     section(T["data_title"])
     cols = ["tweet_created", "airline", "airline_sentiment", "negativereason", "text"]
-    st.dataframe(df[cols], use_container_width=True, hide_index=True, height=480)
+    st.dataframe(df[cols], width="stretch", hide_index=True, height=480)
     st.download_button(
         T["download"], df[cols].to_csv(index=False).encode("utf-8"),
         file_name="airline_tweets_filtered.csv", mime="text/csv", icon="⬇️",
