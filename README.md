@@ -2,7 +2,7 @@
 
 [![Live demo](https://img.shields.io/badge/live%20demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://rolandkeszi-sentiment-usair.streamlit.app/?lang=en) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Tweets](https://img.shields.io/badge/data-14%2C640%20tweets-59636e?style=flat-square)
 
-An interactive **Streamlit** dashboard for exploring what passengers say about six US airlines on Twitter. It works on 14,640 human-labelled tweets and supports filtering by sentiment, airline and hour of day. It also shows a complaint profile per airline, time patterns, and word clouds of what people actually write. The interface is bilingual (English / Hungarian).
+An interactive **Streamlit** dashboard for exploring what passengers say about six US airlines on Twitter. It works on 14,640 human-labelled tweets and lets you explore them by sentiment, airline and hour of day, compare airlines side by side, and see word clouds of what people actually write. The interface is bilingual (English / Hungarian).
 
 **▶ [Open the live dashboard](https://rolandkeszi-sentiment-usair.streamlit.app/?lang=en)** <sub>(If the app has been idle, Streamlit Cloud needs about 30 seconds to wake it up.)</sub>
 
@@ -23,15 +23,18 @@ An interactive **Streamlit** dashboard for exploring what passengers say about s
 
 ## Dashboard features
 
-| Tab | What you get |
-|---|---|
-| 📊 **Overview** | Headline KPIs, the sentiment split per airline (sorted by negative share) and tweet volume. |
-| ⚠️ **Complaints** | Ranked complaint reasons, plus a heatmap of each airline's complaint profile. |
-| 🕐 **Time patterns** | Tweets by hour of day and by day, stacked by sentiment. |
-| 💬 **Text** | Word clouds per sentiment, with noise words removed, and a set of sample tweets you can refresh. |
-| 📄 **Data** | The filtered table, downloadable as CSV. |
+Every setting lives in the sidebar, and each section can be opened or closed there.
 
-The sidebar filters (airlines, sentiment, hour range) apply to every tab. Add `?lang=en` or `?lang=hu` to the URL to choose the language.
+| Sidebar section | What you get |
+|---|---|
+| 🎲 **Random tweet** | A random tweet of the chosen sentiment (positive, neutral or negative). |
+| 📊 **Tweets by sentiment** | The number of tweets per sentiment, as a bar or pie chart. |
+| 🕐 **When did passengers tweet?** | An hour slider: tweets in the chosen one-hour slot by airline and sentiment, with an optional raw data table. |
+| ✈️ **Tweets by airline** | Tweet volume per airline, as a bar or pie chart. |
+| 🔍 **Breakdown by sentiment** | Pick airlines to compare their sentiment split side by side, as pie or bar charts. |
+| ☁️ **Word cloud** | The most frequent words of the chosen sentiment. |
+
+Add `?lang=en` or `?lang=hu` to the URL to choose the language.
 
 ## Data
 
